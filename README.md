@@ -3,4 +3,4 @@
 
 - Знаю как пользоваться **Git** и ~~PornoHub~~ **GitHub**
 - знаю что ~~ничего не знаю~~ что требуется опыт.
-- моё фото [https://avatars.dzeninfra.ru/get-zen_doc/1542122/pub_64e46f2586d0d00416555d4d_64e48def0f4cb73667168f3a/scale_1200](url)
+- моё фото [https://damion.club/uploads/posts/2022-01/1643199063_5-damion-club-p-kot-za-kompyuterom-5.jpg](url)
